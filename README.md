@@ -1,7 +1,5 @@
 # IE221 Teamwork 3 - Group 18
 
-# IE221 Teamwork 3 – Group 18
-
 ## Project Description
 This project presents simulation-based demonstrations of fundamental
 probability limit theorems using Java. The objective is to verify theoretical
