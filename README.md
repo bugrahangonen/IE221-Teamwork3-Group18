@@ -78,7 +78,8 @@ Each execution generates a corresponding figure under the
 
 ## Team Members
 
-- Name Surname – Student ID  
-- Name Surname – Student ID  
-- Name Surname – Student ID  
-- Name Surname – Student ID
+Buğrahan Gönen 2311021032
+Mustafa Sait Bayraktar 2311021072
+Kerem Kaan Gökçe 2311021009
+Eren Görgülü 2311021004
+
