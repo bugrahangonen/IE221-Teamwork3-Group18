@@ -10,6 +10,18 @@ The following topics are covered:
 - Central Limit Theorem (CLT)
 - Monte Carlo estimation of π
 
+### Strong Law of Large Numbers (SLLN)
+
+The SLLN simulation demonstrates the almost sure convergence of the sample mean
+to the expected value μ = 0.5. Independent random variables are generated from
+the Uniform[0,1] distribution, and the cumulative sample mean is computed as
+the number of observations increases.
+
+A single long simulation is performed, and the convergence behavior is
+visualized using a line chart. The reference line represents the true mean,
+allowing direct comparison with the simulated sample mean.
+
+
   ### Central Limit Theorem (CLT) Simulation
 
 This simulation demonstrates the Central Limit Theorem using uniformly distributed random variables.
