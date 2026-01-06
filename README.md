@@ -95,5 +95,5 @@ Each execution generates a corresponding figure under the
 Buğrahan Gönen 2311021032
 Mustafa Sait Bayraktar 2311021072
 Kerem Kaan Gökçe 2311021009
-Eren Görgülü 2311021004
+Ahmet Eren Görgülü 2311021004
 
