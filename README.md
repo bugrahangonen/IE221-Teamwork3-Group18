@@ -10,6 +10,20 @@ The following topics are covered:
 - Central Limit Theorem (CLT)
 - Monte Carlo estimation of π
 
+  ### Central Limit Theorem (CLT) Simulation
+
+This simulation demonstrates the Central Limit Theorem using uniformly distributed random variables.
+For different sample sizes (n = 2, 5, 10, 30, 50), repeated samples are generated and standardized sums
+are computed according to the CLT formulation.
+
+Histograms are produced to visualize how the distribution of the standardized sums converges
+to the normal distribution as the sample size increases. This behavior illustrates convergence
+in distribution, which is the key concept behind the Central Limit Theorem.
+
+The results confirm that even when the underlying distribution is uniform, the distribution of
+the standardized sample means approaches a normal distribution for sufficiently large sample sizes.
+
+
 All simulations produce graphical outputs to illustrate convergence behavior.
 
 ---
