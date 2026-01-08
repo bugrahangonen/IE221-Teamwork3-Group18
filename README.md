@@ -21,6 +21,13 @@ A single long simulation is performed, and the convergence behavior is
 visualized using a line chart. The reference line represents the true mean,
 allowing direct comparison with the simulated sample mean.
 
+**Monte Carlo Pi Estimation**
+
+This simulation demonstrates the application of the Law of Large Numbers using a geometric Monte Carlo method to estimate the value of Pi (π). Independent random coordinate pairs (x, y) are generated uniformly within a unit square, and the algorithm determines whether each point falls inside the inscribed unit circle defined by $x^2 + y^2 \leq 1$.
+
+The cumulative estimate of Pi is computed iteratively based on the ratio of points falling inside the circle to the total number of generated points. As the sample size increases, this ratio is scaled by a factor of 4 to approximate the true value of Pi. The simulation highlights how stochastic processes can be used to solve deterministic mathematical problems.
+
+Convergence behavior is visualized using a dynamic line chart produced with the JFreeChart library. The estimated value is plotted against the number of iterations, with a reference line representing the true mathematical constant (Math.PI). The graphical output illustrates that as the number of random samples grows, the estimated value stabilizes and converges toward the actual value of Pi.
 
   ### Central Limit Theorem (CLT) Simulation
 
