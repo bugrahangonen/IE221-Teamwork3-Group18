@@ -21,7 +21,7 @@ A single long simulation is performed, and the convergence behavior is
 visualized using a line chart. The reference line represents the true mean,
 allowing direct comparison with the simulated sample mean.
 
-**Monte Carlo Pi Estimation**
+### Monte Carlo Pi Estimation
 
 This simulation demonstrates the application of the Law of Large Numbers using a geometric Monte Carlo method to estimate the value of Pi (π). Independent random coordinate pairs (x, y) are generated uniformly within a unit square, and the algorithm determines whether each point falls inside the inscribed unit circle defined by $x^2 + y^2 \leq 1$.
 
